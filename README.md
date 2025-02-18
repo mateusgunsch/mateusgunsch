@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋 My name is Mateus Gunsch</h1>
 
 ###
 
-<p align="left">My name is Mateus and I'm a Computer Engineer, from Brazil.</p>
+<p align="left">I'm a Computer Engineer and Web Developer, from Brazil.</p>
 
 ###
 
