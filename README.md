@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineer and Web Developer, from Brazil.</p>
+<p align="left">I'm a Computer Engineer and Web Developer from Brazil.</p>
 
 ###
 
