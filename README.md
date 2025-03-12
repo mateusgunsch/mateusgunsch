@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ I'm passionate about technology and programming<br>📚 I'm currently learning and improving my MERN Stack skills<br>😸 Fun fact: I love cats</p>
+<p align="left">✨ I'm passionate about technology and programming<br>📚 I'm currently learning and improving my MERN Stack skills<br>😸 Fun fact: I love cats and music</p>
 
 ###
 
