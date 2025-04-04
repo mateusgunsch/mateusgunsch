@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I graduated with a degree in Computer Engineering from the Federal University of Mato Grosso, and I'm currently enrolled in a web development bootcamp.</p>
+<p align="left">I graduated with a degree in Computer Engineering from the Federal University of Mato Grosso, and I'm currently working as a Freelance Web Developer.</p>
 
 ###
 
